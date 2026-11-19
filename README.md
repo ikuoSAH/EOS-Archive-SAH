@@ -8,5 +8,5 @@ Legacy versions are show files that do not use version codes. To keep uploads in
 
 For changelogs, head [here](https://docs.google.com/document/d/1vXy7nuzBHffpBWG129OyihJlPDN1AI_Onx1MbkwKh5I/edit?tab=t.0).
 
-## Test Versions
-Testing versions are concept show files, used to test new ideas. Because not all changes make it into the main branch, changelogs are not guaranteed.
+## Temporary Versions
+Temporary versions are show files used for special events or to conceptualize new ideas. Version formatting follows with suffixes explained [here](https://docs.google.com/document/d/1vXy7nuzBHffpBWG129OyihJlPDN1AI_Onx1MbkwKh5I/edit?tab=t.rnvl86r4hke#heading=h.yphkqwnoyv1a). Because not all changes make it into the main branch, changelogs are not regulated or guaranteed.
